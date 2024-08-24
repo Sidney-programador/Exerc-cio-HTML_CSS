@@ -1,0 +1,135 @@
+Básico de HTML
+Exercício:
+
+1º Os elementos HTML são cercados por um tipo específico de colchetes, qual?
+'p' This is a paragraph.?/p?
+
+2º Preencha o código ausente para completar a marcação do hiperlink HTML.
+<a href="https://www.w3schools.com">This is a link</a>
+
+Elementos HTML
+
+1º Insira a tag final correta para o título HTML.
+<h1>This is a heading</h1>
+
+2º Inserir as tags finais corretas neste documento HTML:
+<html>
+<body>
+<h4>This is a headingh4<b
+<p>This is a paragraph.p?<
+body<b
+tml?
+
+Atributos de HTML
+
+1º Adicione uma "dica de ferramentas" ao parágrafo abaixo com o texto "Sobre as escolas".
+<p title="About W3Schools">W3Schools is a web developer's site.</p>
+
+2º Defina o tamanho da imagem com 250 pixels de largura e 400 pixels de altura.
+<img src="w3schools.jpg" width="50"" height="00"">
+
+3º Faça o elemento abaixo em um link que vai para "https://www.w3schools.com".
+<a ref?" "https://www.w3schools.com">This is a link</a>
+
+4º Especifique um texto alternativo para a imagem.
+
+O texto alternativo é útil quando a imagem não pode ser exibida, como quando a página é lida por um leitor de tela.
+<img src="w3schools.png" lt?="w3schools Logo">
+
+Cabeçalhos do HTML
+
+1º Use a tag HTML correta para adicionar um título com o texto "Londres".
+
+h1?London?/h1?
+
+<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+
+2º Adicione seis títulos ao documento com o texto "Olá".
+
+Comece com o título mais importante (o maior) e termine com o título menos importante (o menor).
+
+<html>
+<body>
+h1?Hello?/h1?
+h2?Hello?/h2?
+h3?Hello?/h3?
+h4?Hello?/h4?
+h5?Hello?/h5?
+h6?Hello?/h6?
+</body>
+</html>
+
+3º Marcar o texto com as tags apropriadas:
+"Universal Studios Presents" é o título mais importante.
+
+"Jurassic Park" é o próximo título mais importante.
+
+"Sobre" é o terceiro título mais importante.
+
+A última frase é apenas um parágrafo.
+
+Comece com o título mais importante (o maior) e termine com o título menos importante (o menor).
+
+h1?UUniversal Studios Presents/h1?
+h2?J Jurassic Park/h2?
+h3?A About h3?
+?NaOn the Island of Isla Nublar, a new park has been built: Jurassic Park is a theme park of cloned
+dinosaurs!! dos!
+
+Paragrafos em HTML
+
+1º Use a tag HTML correta para adicionar um parágrafo com o texto "Olá Mundo!".
+<html>
+<body>
+p?Hello World!?/p?
+</body>
+</html>
+
+2º Limpe este documento com as tags finais adequadas.
+<h1>This is a Heading/h1?
+<p>This is a paragraph.?/p?
+
+3º Adicione uma regra horizontal entre o título e o parágrafo.
+<h1>London</h1>
+hr?
+<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+
+4º Adicione uma quebra de linha no meio do parágrafo:
+<p>My Bonnie lies contover the ocean.</p>
+
+5º Enrole este poema em torno de tags HTML que preservarão todos os espaços e quebras de linha quando o elemento for exibido.
+pre?
+My Bonnie lies over the ocean.
+My Bonnie lies over the sea.
+My Bonnie lies over the ocean.
+Oh, bring back my Bonnie to me.
+
+Estilos de HTML
+
+1º Use o atributo HTML correto e CSS para definir a cor do parágrafo como "azul".
+<p tyle?="olor: blue;;">This is a paragraph.</p>
+
+2º Use CSS para definir a fonte do parágrafo para "concorredor".
+<p style="ont-family::courier; ">This is a paragraph.</p>
+
+3º Use CSS para centralizar o parágrafo.
+<p style="ext-align: center;">This is a paragraph.</p>
+
+4º Use CSS para definir o tamanho do texto para 50 pixels.
+<p style="ont-size:: 50px; ">This is a paragraph.</p>
+
+5º Use CSS para definir a cor de fundo do documento como amarelo.
+<html>
+<body style="ckground-color:y: yellow;">
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+</body>
+</html>
+
+6º Use CSS para centralizar o documento.
+<html>
+<body tyle"="xt-align:center;";">
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+</body>
+</html>
